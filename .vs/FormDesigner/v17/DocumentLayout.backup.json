@@ -7,16 +7,52 @@
       "RelativeMoniker": "D:0:0:{F9681DE7-37CC-3C2C-B71D-E8A4DF233C66}|formdesigner.esproj|solutionrelative:src\\designer\\designerform.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F9681DE7-37CC-3C2C-B71D-E8A4DF233C66}|formdesigner.esproj|c:\\users\\kenichol\\source\\repos\\formdesigner\\src\\designer\\editfieldmodal.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{F9681DE7-37CC-3C2C-B71D-E8A4DF233C66}|formdesigner.esproj|solutionrelative:src\\designer\\editfieldmodal.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9681DE7-37CC-3C2C-B71D-E8A4DF233C66}|formdesigner.esproj|c:\\users\\kenichol\\source\\repos\\formdesigner\\src\\designer\\pallette.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{F9681DE7-37CC-3C2C-B71D-E8A4DF233C66}|formdesigner.esproj|solutionrelative:src\\designer\\pallette.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9681DE7-37CC-3C2C-B71D-E8A4DF233C66}|formdesigner.esproj|c:\\users\\kenichol\\source\\repos\\formdesigner\\src\\designer\\formcomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{F9681DE7-37CC-3C2C-B71D-E8A4DF233C66}|formdesigner.esproj|solutionrelative:src\\designer\\formcomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9681DE7-37CC-3C2C-B71D-E8A4DF233C66}|formdesigner.esproj|c:\\users\\kenichol\\source\\repos\\formdesigner\\src\\designer\\fields\\textfieldblock.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{F9681DE7-37CC-3C2C-B71D-E8A4DF233C66}|formdesigner.esproj|solutionrelative:src\\designer\\fields\\textfieldblock.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9681DE7-37CC-3C2C-B71D-E8A4DF233C66}|formdesigner.esproj|c:\\users\\kenichol\\source\\repos\\formdesigner\\src\\designer\\metaform.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{F9681DE7-37CC-3C2C-B71D-E8A4DF233C66}|formdesigner.esproj|solutionrelative:src\\designer\\metaform.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9681DE7-37CC-3C2C-B71D-E8A4DF233C66}|formdesigner.esproj|c:\\users\\kenichol\\source\\repos\\formdesigner\\src\\designer\\canvas.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{F9681DE7-37CC-3C2C-B71D-E8A4DF233C66}|formdesigner.esproj|solutionrelative:src\\designer\\canvas.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9681DE7-37CC-3C2C-B71D-E8A4DF233C66}|formdesigner.esproj|c:\\users\\kenichol\\source\\repos\\formdesigner\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F9681DE7-37CC-3C2C-B71D-E8A4DF233C66}|formdesigner.esproj|solutionrelative:src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9681DE7-37CC-3C2C-B71D-E8A4DF233C66}|formdesigner.esproj|c:\\users\\kenichol\\source\\repos\\formdesigner\\src\\home.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{F9681DE7-37CC-3C2C-B71D-E8A4DF233C66}|formdesigner.esproj|solutionrelative:src\\home.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9681DE7-37CC-3C2C-B71D-E8A4DF233C66}|formdesigner.esproj|c:\\users\\kenichol\\source\\repos\\formdesigner\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F9681DE7-37CC-3C2C-B71D-E8A4DF233C66}|formdesigner.esproj|solutionrelative:src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9681DE7-37CC-3C2C-B71D-E8A4DF233C66}|formdesigner.esproj|c:\\users\\kenichol\\source\\repos\\formdesigner\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{F9681DE7-37CC-3C2C-B71D-E8A4DF233C66}|formdesigner.esproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F9681DE7-37CC-3C2C-B71D-E8A4DF233C66}|formdesigner.esproj|c:\\users\\kenichol\\source\\repos\\formdesigner\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{F9681DE7-37CC-3C2C-B71D-E8A4DF233C66}|formdesigner.esproj|solutionrelative:src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F9681DE7-37CC-3C2C-B71D-E8A4DF233C66}|formdesigner.esproj|c:\\users\\kenichol\\source\\repos\\formdesigner\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{F9681DE7-37CC-3C2C-B71D-E8A4DF233C66}|formdesigner.esproj|solutionrelative:src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9681DE7-37CC-3C2C-B71D-E8A4DF233C66}|formdesigner.esproj|c:\\users\\kenichol\\source\\repos\\formdesigner\\src\\home.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{F9681DE7-37CC-3C2C-B71D-E8A4DF233C66}|formdesigner.esproj|solutionrelative:src\\home.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +62,184 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 35,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "EditFieldModal.tsx",
+              "DocumentMoniker": "C:\\Users\\kenichol\\source\\repos\\FormDesigner\\src\\designer\\EditFieldModal.tsx",
+              "RelativeDocumentMoniker": "src\\designer\\EditFieldModal.tsx",
+              "ToolTip": "C:\\Users\\kenichol\\source\\repos\\FormDesigner\\src\\designer\\EditFieldModal.tsx",
+              "RelativeToolTip": "src\\designer\\EditFieldModal.tsx",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-08-20T02:20:03.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormComponent.tsx",
+              "DocumentMoniker": "C:\\Users\\kenichol\\source\\repos\\FormDesigner\\src\\designer\\FormComponent.tsx",
+              "RelativeDocumentMoniker": "src\\designer\\FormComponent.tsx",
+              "ToolTip": "C:\\Users\\kenichol\\source\\repos\\FormDesigner\\src\\designer\\FormComponent.tsx",
+              "RelativeToolTip": "src\\designer\\FormComponent.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-08-20T01:09:17.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\kenichol\\source\\repos\\FormDesigner\\src\\index.css",
+              "RelativeDocumentMoniker": "src\\index.css",
+              "ToolTip": "C:\\Users\\kenichol\\source\\repos\\FormDesigner\\src\\index.css",
+              "RelativeToolTip": "src\\index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-20T00:21:57.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\kenichol\\source\\repos\\FormDesigner\\src\\App.css",
+              "RelativeDocumentMoniker": "src\\App.css",
+              "ToolTip": "C:\\Users\\kenichol\\source\\repos\\FormDesigner\\src\\App.css",
+              "RelativeToolTip": "src\\App.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-20T00:20:03.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\kenichol\\source\\repos\\FormDesigner\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\kenichol\\source\\repos\\FormDesigner\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-19T23:46:04.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "main.tsx",
               "DocumentMoniker": "C:\\Users\\kenichol\\source\\repos\\FormDesigner\\src\\main.tsx",
               "RelativeDocumentMoniker": "src\\main.tsx",
@@ -43,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Home.tsx",
               "DocumentMoniker": "C:\\Users\\kenichol\\source\\repos\\FormDesigner\\src\\Home.tsx",
               "RelativeDocumentMoniker": "src\\Home.tsx",
@@ -56,7 +265,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "App.tsx",
               "DocumentMoniker": "C:\\Users\\kenichol\\source\\repos\\FormDesigner\\src\\App.tsx",
               "RelativeDocumentMoniker": "src\\App.tsx",
@@ -75,10 +284,96 @@
               "RelativeDocumentMoniker": "src\\designer\\DesignerForm.tsx",
               "ToolTip": "C:\\Users\\kenichol\\source\\repos\\FormDesigner\\src\\designer\\DesignerForm.tsx",
               "RelativeToolTip": "src\\designer\\DesignerForm.tsx",
-              "ViewState": "AgIAAHQAAAAAAAAAAAAAAIQAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAiwFMAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-08-19T23:21:11.713Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Canvas.tsx",
+              "DocumentMoniker": "C:\\Users\\kenichol\\source\\repos\\FormDesigner\\src\\designer\\Canvas.tsx",
+              "RelativeDocumentMoniker": "src\\designer\\Canvas.tsx",
+              "ToolTip": "C:\\Users\\kenichol\\source\\repos\\FormDesigner\\src\\designer\\Canvas.tsx",
+              "RelativeToolTip": "src\\designer\\Canvas.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-08-20T01:10:42.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pallette.tsx",
+              "DocumentMoniker": "C:\\Users\\kenichol\\source\\repos\\FormDesigner\\src\\designer\\Pallette.tsx",
+              "RelativeDocumentMoniker": "src\\designer\\Pallette.tsx",
+              "ToolTip": "C:\\Users\\kenichol\\source\\repos\\FormDesigner\\src\\designer\\Pallette.tsx",
+              "RelativeToolTip": "src\\designer\\Pallette.tsx",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-08-20T02:06:35.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MetaForm.tsx",
+              "DocumentMoniker": "C:\\Users\\kenichol\\source\\repos\\FormDesigner\\src\\designer\\MetaForm.tsx",
+              "RelativeDocumentMoniker": "src\\designer\\MetaForm.tsx",
+              "ToolTip": "C:\\Users\\kenichol\\source\\repos\\FormDesigner\\src\\designer\\MetaForm.tsx",
+              "RelativeToolTip": "src\\designer\\MetaForm.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-08-20T01:44:22.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TextFieldBlock.tsx",
+              "DocumentMoniker": "C:\\Users\\kenichol\\source\\repos\\FormDesigner\\src\\designer\\fields\\TextFieldBlock.tsx",
+              "RelativeDocumentMoniker": "src\\designer\\fields\\TextFieldBlock.tsx",
+              "ToolTip": "C:\\Users\\kenichol\\source\\repos\\FormDesigner\\src\\designer\\fields\\TextFieldBlock.tsx",
+              "RelativeToolTip": "src\\designer\\fields\\TextFieldBlock.tsx",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-08-20T01:02:46.717Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 296,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
             }
           ]
         }
